@@ -1,4 +1,5 @@
 # Poyo's guide to retro websites!
+# Layout
 ## Introduction
 - Introduction to the book (By WoepdieCat)
 - Brief history of web development in the 1990s-2000s
@@ -52,7 +53,9 @@
 - Who manages the domain names?
 - How to setup a domain name?
 ### Subdomains
-  - How to get a free subdomain
+- How to get a free subdomain
 ## Appendices:
 ### HTML, CSS and JS references
 ## Contact me
+<div style="page-break-after:always; display:block; text-align:center; border:none">*****</div>
+Abcd after me
