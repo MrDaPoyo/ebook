@@ -1,7 +1,7 @@
 # Poyo's guide to retro websites!
 # Layout
 ## Introduction
-- Introduction to the book (By WoepdieCat)
+- Prologue (By WoepdieCat)
 - Brief history of web development in the 1990s-2000s
 ## Tools and Setup
   - Visual studio code & extensions
