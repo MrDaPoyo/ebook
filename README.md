@@ -1,4 +1,4 @@
-# Poyo's guide to retro websites!
+# Poyo's guide to retro websites!<img src="still-poyo.png" width="50px">
 # Layout
 ## Introduction
 - Prologue (By WoepdieCat)
