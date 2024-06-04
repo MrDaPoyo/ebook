@@ -58,4 +58,3 @@
 ### HTML, CSS and JS references
 ## Contact me
 <div style="page-break-after:always; display:block; text-align:center; border:none">*****</div>
-Abcd after me
