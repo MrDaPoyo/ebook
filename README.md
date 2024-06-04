@@ -3,6 +3,7 @@
 - Introduction to the book and its goals
 - Brief history of web development in the 1990s-2000s
 ## Tools and Setup
+
   - Visual studio code
   - Setting up a dev environment
 ## Chapter 1: The basics
