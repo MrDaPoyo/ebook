@@ -7,4 +7,4 @@ Back in the day, we didn't have all the fancy tools and resources we do now. Web
 There were many trends, such as having your visitors sign a guestbook, visitor counters and stamp/blinkies/buttons(More on that later), and believe it or not, <span style="color: green; font-family: 'Comic Sans', cursive; font-size: 1.5em;">Comic Sans</span> was all the rage worldwide.
 Yep O-O, Comic Sans. What the fu~ 
 
-In the 90s, when the search engines where shitty
+In the 90s, when the search engines where bad, people socila
