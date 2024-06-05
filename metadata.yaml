@@ -1,11 +1,13 @@
 ---
 title: "Poyo's guide to retro web development!"
 author: [Poyo!]
+date: v0.1
 lang: en-GB
 toc: True
 titlepage: true
 titlepage-rule-height: 6
-titlepage-rule-colour: ababab
+titlepage-logo: images/still-poyo.png
 toc-own-page: true
 footnotes-pretty: true
+book: true
 ---

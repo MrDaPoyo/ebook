@@ -10,4 +10,4 @@ Yep O-O, Comic Sans. What the fu~
 ![1](images/google-1998.png){ width=50% }
 \footnote[1]{Image taken from https://www.webdesignmuseum.org/exhibitions/web-design-in-the-90s}
 
-In the 90s, the search engines were bad. Really bad. So people interconnected their websites by entering on Webrings and sharing Buttons with their friends. Buttons are like souvenirs from websites. These can be put on other's websites to show they liked the website, or that they're friends of their webmaster.
+In the 90s, search engines were bad. Really bad. So people interconnected their websites by entering on Webrings and sharing Buttons with their friends. Buttons are like souvenirs from websites. These can be put on other's websites to show they liked the website, or that they're friends of their webmaster.
