@@ -4,12 +4,12 @@ author:
   - Poyo! 
   - WoepdieCat 
   - UserMaldito
-
+lang: en-GB
+numbersections: true
+mainfont: VT323-Regular.ttf
 pagestyle:
   - headings
-
 papersize:
   - a4
-number-section: True
 toc: True
 ---
