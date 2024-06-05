@@ -1,9 +1,3 @@
----
-include-before:
-- '`\newpage{}`{=latex}'
----
-
-\pagebreak
 # Prologue (By WoepdieCat)
 Poyo is the best peep in the world
 
@@ -12,5 +6,8 @@ Back in the day, we didn't have all the fancy tools and resources we do now. Web
 
 There were many trends, such as having your visitors sign a guestbook, visitor counters and stamp/blinkies/buttons(More on that later), and believe it or not, <span style="color: green; font-family: 'Comic Sans', cursive; font-size: 1.5em;">Comic Sans</span> was all the rage worldwide.
 Yep O-O, Comic Sans. What the fu~
-![](google-1998.png "How google looked in the '98")
-In the 90s, the search engines were bad. So people interconnected their websites by entering on Webrings and Sharing Buttons with their friends.  
+\footnote[1]{Image took from https://www.webdesignmuseum.org/exhibitions/web-design-in-the-90s}
+![1](images/google-1998.png){ width=50% }
+
+
+In the 90s, the search engines were bad. Really bad. So people interconnected their websites by entering on Webrings and sharing Buttons with their friends. Buttons are like souvenirs from websites. These can be put on other's websites to show they liked the website, or that they're friends of their webmaster.
