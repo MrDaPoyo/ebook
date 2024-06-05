@@ -1,14 +1,15 @@
 ---
+fontfamilyoptions: sfdefault
+fontfamily: merriweather
 title: Poyo's guide to retro web development!
 author: 
   - Poyo! 
-  - WoepdieCat 
-  - UserMaldito
 lang: en-GB
 numbersections: true
 pagestyle:
   - headings
 papersize:
   - a4
+mainfont: "VT323-Regular.ttf"
 toc: True
 ---
