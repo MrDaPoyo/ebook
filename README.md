@@ -1,3 +1,5 @@
+To compile this ebook, use `pandoc README.md introduction.md --toc -s -o output.pdfor`
+
 # ![](still-poyo.png "Da poyo is here"){ width=25px } Poyo's guide to retro websites!
 
 ## Introduction
