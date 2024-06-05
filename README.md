@@ -74,4 +74,3 @@ To compile this ebook, use `pandoc README.md introduction.md --toc -s -o output.
 
 ### HTML, CSS and JS references
 ## Contact me
-\pagebreak
