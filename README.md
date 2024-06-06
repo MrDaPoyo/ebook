@@ -1,7 +1,7 @@
-To compile this ebook, use `pandoc introduction.md -s -o output.pdf --metadata-file metadata.yaml`
+To compile this ebook, use `pandoc introduction.md -s -o output.pdf --metadata-file metadata.yaml --listings`
 You can also use a template `pandoc introduction.md chapter1.md -o output.pdf -H tex/disable_float.tex --template tex/eisvogel.tex --listings --metadata-file metadata.yaml`
 
-# ![](still-poyo.png "Da poyo is here"){ width=25px } Poyo's guide to retro websites!
+# ![](still-poyo.png "Da poyo is here"){ width=25% } Poyo's guide to retro websites!
 
 ## Introduction
 - Prologue (By WoepdieCat)
@@ -10,6 +10,7 @@ You can also use a template `pandoc introduction.md chapter1.md -o output.pdf -H
 ## Tools and Setup
   - Visual studio code & extensions
   - Setting up a dev environment
+  - Git
 
 ## Chapter 1: The basics
 - What is a website?
