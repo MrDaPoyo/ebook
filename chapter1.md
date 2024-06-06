@@ -22,15 +22,17 @@ VScode enables seamless collaboration and remote development. Here are some feat
 1. **Live Share**: With Live Share, you can share your development environment with others, allowing them to edit and debug code in real-time.
 2. **GitHub Codespaces**: GitHub offers a service called Codespaces, which provides a cloud-based development environment with VSCode pre-installed. With Codespaces, you can access a Linux machine from anywhere in the world, making it convenient for remote development.
 
-# 1.1.4 How to use VSCode?
+## 1.1.4 How to use VSCode?
 1. **Opening a Project**: Once you have installed VSCode, open it and you will see the welcome screen. From there, you can either open an existing project or create a new one. To open an existing project, click on "Open Folder" and select the folder containing your project files.
 2. **Editor Layout**: The VSCode interface consists of several components. The main area is the editor, where you write your code. On the left side, you have the sidebar, which provides access to different views like the file explorer, source control, extensions, and more. At the bottom, you have the status bar, which displays information about the current file and provides quick access to various settings.
 3. **Terminal**: VScode has an integrated terminal to make coding easier. You can access it by opening the bottom bar. But be careful! It will be a live terminal running on your computer. I suggest doing all of your changes in a single folder and then, once you're finished, move all of the files inside to the location where you'll be running them.
 
-# 1.2 Git
-## 1.2.1 What is Git?
+## 1.2 Git 
+### 1.2.1 What is Git?
 
-Git is a widely used version control system. It's useful for having and mantaining different versions of your code, and to store them in GitHub for free. Thankfully, VScode offers excellent integration with Git. Let's see how can we use it!
+Git is a widely used version control system. It's useful for having and mantaining different versions of your code,and to store them in GitHub for free. Thankfully, VScode offers excellent integration with Git. Let's see how can we use it!
+
+![Git's logo](images/git.png)
 
 ## How to use git?
 Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands\footnote{Full list of commands available at https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html} are:
@@ -48,19 +50,4 @@ git config --global user.email <email>
     - `git commit -m "<Commit message>"` - Commit changes to the head branch of your git repo(repository)
     - `git push` - Send the changes and store them in the github repo
 
-The github code to authenticate and retrieve a github repository, and update some files would be like
-```
-git config --global user.name "poyo"
-git config --global user.email poyo@example.com
-
-git clone https://github.com/mrdapoyo/repository
-git add
-git commit -m "Poy Poyo! Cleaned the code"
-git push
-
-```
-
-Tada! You managed to clone, modify and push a GitHub repo! This will be very useful in your life.
-
-
-To sum up this chapter, we explored the power of VScode and various web development tools. We learned how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
+The github code to authenticate and retriev, we explored the powered how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!

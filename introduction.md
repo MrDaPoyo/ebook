@@ -19,6 +19,6 @@ We'll also talk about how to create a button yourself in this book.
 In this book, I will teach you how to build your own website from scratch, what were the trends in the 1990s-2000s and how can we replicate the looks of such websites.
 Without further ado, let's start!
 
-
 ![This is how google looked in 1998](images/google-1998.png){ width=100% }
+
 \footnote{Image taken from https://www.webdesignmuseum.org/exhibitions/web-design-in-the-90s}
