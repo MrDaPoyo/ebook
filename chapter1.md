@@ -33,9 +33,18 @@ VScode enables seamless collaboration and remote development. Here are some feat
 Git is a widely used version control system. It's useful for having and mantaining different versions of your code, and to store them in GitHub for free. Thankfully, VScode offers excellent integration with Git. Let's see how can we use it!
 
 ## How to use git?
-Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands are:
+Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands\footnote{Full list of commands available at https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html} are:
 
-- `git init` Create a new repository
-- `git clone <repository url>` Download a copy of a repository to commit changes or just to use the code.
+1. To authenticate yourself: 
+```bash
+git config --global user.name "<username>"
+git config --global user.email <email>
+```
+2. To start developing:
+   - `git init` - Create a new repository
+   - `git clone <repository url>` - Download a copy of a repository to commit changes or just to use the code.
+3. To save your work
+    - `git commit -m "<Commit message>"` - Commit changes to the head branch of your git repo(repository)
+    - `git add`
 
 In this chapter, we explored the power of VScode and various web development tools. We learned how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
