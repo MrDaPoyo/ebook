@@ -1,7 +1,7 @@
 To compile this ebook, install `sudo apt-get install pandoc` and use `pandoc introduction.md -s -o output.pdf --metadata-file metadata.yaml --listings`
 You can also use a template `pandoc introduction.md chapter1.md -o output.pdf -H tex/disable_float.tex --template tex/eisvogel.tex --listings --metadata-file metadata.yaml`
 
-# ![](still-poyo.png "Da poyo is here"){ width=25% } Poyo's guide to retro websites!
+# ![](images/still-poyo.png "Da poyo is here"){ width=25% } Poyo's guide to retro websites!
 
 ## Introduction
 - Prologue (By WoepdieCat)

@@ -27,11 +27,15 @@ VScode enables seamless collaboration and remote development. Here are some feat
 2. **Editor Layout**: The VSCode interface consists of several components. The main area is the editor, where you write your code. On the left side, you have the sidebar, which provides access to different views like the file explorer, source control, extensions, and more. At the bottom, you have the status bar, which displays information about the current file and provides quick access to various settings.
 3. **Terminal**: VScode has an integrated terminal to make coding easier. You can access it by opening the bottom bar. But be careful! It will be a live terminal running on your computer. I suggest doing all of your changes in a single folder and then, once you're finished, move all of the files inside to the location where you'll be running them.
 
-# 1.2 GIT
-## 1.2.1 What is git?
+# 1.2 Git
+## 1.2.1 What is Git?
 
 Git is a widely used version control system. It's useful for having and mantaining different versions of your code, and to store them in GitHub for free. Thankfully, VScode offers excellent integration with Git. Let's see how can we use it!
 
+## How to use git?
+Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands are:
 
+- `git init` Create a new repository
+- `git clone <repository url>` Download a copy of a repository to commit changes or just to use the code.
 
 In this chapter, we explored the power of VScode and various web development tools. We learned how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
