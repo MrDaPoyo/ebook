@@ -4,7 +4,7 @@ author: [Poyo!]
 date: v0.1
 lang: en-GB
 toc: True
-titlepage: true
+titlepage: True
 titlepage-rule-height: 6
 titlepage-logo: images/still-poyo.png
 toc-own-page: true

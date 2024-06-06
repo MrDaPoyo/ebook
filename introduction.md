@@ -11,4 +11,5 @@ Yep O-O, Comic Sans. What the fu-
 ![This is how google looked in 1998](images/google-1998.png){ width=100% }
 \footnote{Image taken from https://www.webdesignmuseum.org/exhibitions/web-design-in-the-90s}
 
-In the 90s, search engines were bad. Really bad. So people interconnected their websites by entering on Webrings and sharing Buttons with their friends. Buttons are like souvenirs from websites. These can be put on other's websites to show they liked the website, or that they're friends of their corresponding webmaster. We'll also talk about how to create a button yourself in this book. Let's start! :D
+In the 90s, search engines were bad. Really bad. So people interconnected their websites by entering on Webrings and sharing Buttons with their friends. Buttons are like souvenirs from websites. These can be put on other's websites to show they liked the website, or that they're friends of their corresponding webmaster. We'll also talk about how to create a button yourself in this book. 
+Also, If you're reading this book, I assume you're a nostalgic peep who also wants to build a website straight from the 90s, but found out that's really difficult to build one. Don't suffer anymore! I can help you with that. Without further ado, let's start!
