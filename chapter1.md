@@ -24,7 +24,10 @@ VScode enables seamless collaboration and remote development. Here are some feat
 
 ## 1.1.4 How to use VSCode?
 1. **Opening a Project**: Once you have installed VSCode, open it and you will see the welcome screen. From there, you can either open an existing project or create a new one. To open an existing project, click on "Open Folder" and select the folder containing your project files.
-2. **Editor Layout**: The VSCode interface consists of several components. The main area is the editor, where you write your code. On the left side, you have the sidebar, which provides access to different views like the file explorer, source control, extensions, and more. At the bottom, you have the status bar, which displays information about the current file and provides quick access to various settings.
+2. **Editor Layout**: The VSCode interface consists of several components. The *editor groups* are the editor, where you write your code. On the left side, you have the *activity bar*, which provides access to different views like the file explorer, source control, extensions, and more. At the bottom, you have the *status bar*, which displays information about the current file, a handy terminal and provides quick access to various settings. 
+
+![VScode components](images/vscode1.png)
+
 3. **Terminal**: VScode has an integrated terminal to make coding easier. You can access it by opening the bottom bar. But be careful! It will be a live terminal running on your computer. I suggest doing all of your changes in a single folder and then, once you're finished, move all of the files inside to the location where you'll be running them.
 
 ## 1.2 Git 

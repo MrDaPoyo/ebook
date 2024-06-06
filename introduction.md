@@ -1,10 +1,10 @@
 # Prologue (By WoepdieCat)
 I trust Poyo! to take this topic seriously and show you what websites are really all about and the magic behind them
 
-PD: He won't make it seriously, will he? Hahaha.
+PD: He won't make it seriously, will he? Hahaha
 \newpage
 
-# Brief history of web development in the early 1990s-2000s
+# Brief introduction to the book
 
 Howdy, internaut!
 If you're reading this book, I assume you're a nostalgic peep who also wants to build a website reminiscent of the 90s. However, you may have tried to build one, and have discovered that it's challenging to create such beautiful pieces of art. That's why I'm here to help you. :D
