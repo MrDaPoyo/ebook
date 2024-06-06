@@ -36,7 +36,7 @@ Git is a widely used version control system. It's useful for having and mantaini
 Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands\footnote{Full list of commands available at https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html} are:
 
 1. To authenticate yourself: 
-```bash
+```
 git config --global user.name "<username>"
 git config --global user.email <email>
 ```
@@ -44,7 +44,23 @@ git config --global user.email <email>
    - `git init` - Create a new repository
    - `git clone <repository url>` - Download a copy of a repository to commit changes or just to use the code.
 3. To save your work
+    - `git add` - Add the files changed to the commit.
     - `git commit -m "<Commit message>"` - Commit changes to the head branch of your git repo(repository)
-    - `git add`
+    - `git push` - Send the changes and store them in the github repo
 
-In this chapter, we explored the power of VScode and various web development tools. We learned how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
+The github code to authenticate and retrieve a github repository, and update some files would be like
+```
+git config --global user.name "poyo"
+git config --global user.email poyo@example.com
+
+git clone https://github.com/mrdapoyo/repository
+git add
+git commit -m "Poy Poyo! Cleaned the code"
+git push
+
+```
+
+Tada! You managed to clone, modify and push a GitHub repo! This will be very useful in your life.
+
+
+To sum up this chapter, we explored the power of VScode and various web development tools. We learned how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
