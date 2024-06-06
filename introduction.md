@@ -1,5 +1,7 @@
 # Prologue (By WoepdieCat)
-Poyo is the best peep in the world
+I trust Poyo! to take this topic seriously and show you what websites are really all about and the magic behind them
+
+PD: He won't make it seriously, will he? Hahaha.
 \newpage
 
 # Brief history of web development in the early 1990s-2000s
