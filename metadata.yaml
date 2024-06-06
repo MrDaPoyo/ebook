@@ -10,5 +10,5 @@ titlepage-logo: images/still-poyo.png
 toc-own-page: true
 footnotes-pretty: true
 book: true
-float-placement-figure: b
+
 ---
