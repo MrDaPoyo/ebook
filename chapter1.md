@@ -46,7 +46,7 @@ git config --global user.email <email>
    - `git init` - Create a new repository
    - `git clone <repository url>` - Download a copy of a repository to commit changes or just to use the code.
 3. To save your work
-    - `git add` - Add the files changed to the commit.
+    - `git add .` - Add all the files changed to the commit.
     - `git commit -m "<Commit message>"` - Commit changes to the head branch of your git repo(repository)
     - `git push` - Send the changes and store them in the github repo
 
