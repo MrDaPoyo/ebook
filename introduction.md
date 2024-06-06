@@ -17,7 +17,7 @@ Many of these trends originated because search engines were bad. Really bad. So 
 We'll also talk about how to create a button yourself in this book. 
 
 In this book, I will teach you how to build your own website from scratch, what were the trends in the 1990s-2000s and how can we replicate the looks of such websites.
-Without further ado, let's start!
+Without further ado, let's get started!
 
 ![This is how google looked in 1998](images/google-1998.png){ width=100% }
 
