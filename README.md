@@ -1,5 +1,5 @@
 To compile this ebook, use `pandoc introduction.md -s -o output.pdf --metadata-file metadata.yaml`
-You can also use a template `pandoc introduction.md -o output.pdf -H disable_float.tex --template eisvogel.tex --listings --metadata-file metadata.yaml`
+You can also use a template `pandoc introduction.md -o output.pdf -H tex/disable_float.tex --template tex/eisvogel.tex --listings --metadata-file metadata.yaml`
 
 # ![](still-poyo.png "Da poyo is here"){ width=25px } Poyo's guide to retro websites!
 
