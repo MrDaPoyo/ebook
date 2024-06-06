@@ -4,7 +4,9 @@ Poyo is the best peep in the world
 
 # Brief history of web development in the early 1990s-2000s
 
-If you're reading this book, I assume you're a nostalgic peep who also wants to build a website reminiscent of the 90s. However, you may have discovered that it's challenging to create one. That's why I'm here to help you. :D
+Howdy, internaut!
+If you're reading this book, I assume you're a nostalgic peep who also wants to build a website reminiscent of the 90s. However, you may have tried to build one, and have discovered that it's challenging to create such beautiful pieces of art. That's why I'm here to help you. :D
+We will also dive on the trends of the 1990s-2000s, they are really important to understand how can we replicate them.
 
 There were many trends back in the 90s, such as having your visitors sign a guestbook, visitor counters, and blinkies/buttons(More on that later), and believe it or not, <span style="color: green; font-family: 'Comic Sans', cursive; font-size: 1.5em;">Comic Sans</span> was all the rage worldwide.
 Yep O-O, Comic Sans. What the fu-
