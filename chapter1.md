@@ -1,11 +1,12 @@
-# Chapter 1: VScode and Web Development Tools
+# Chapter 1: Tools and Setup
 
-In this chapter, we will explore the powerful combination of Visual Studio Code (VScode) and various web development tools that will be very useful! 
+In this chapter, we will explore the powerful combination of Visual Studio Code (VScode) and various web development tools such as Git that will be very useful! 
+
 ## 1.1.1 Getting Started with VScode
 
 VScode is a popular code editor developed by Microsoft. It provides a wide range of features and extensions that make it a favorite among many web developers. To get started with VScode\footnote{Official video-guide: https://www.youtube.com/watch?v=B-s71n0dHUk}, it's as simple as visiting their official website\footnote{You can get VScode from https://code.visualstudio.com/.} and downloading VScode. Afterwards, make sure to run the installation wizard and you're now good to go!
 
-## 1.1.2 Essential Extensions for Web Development
+## 1.1.2 Essential Extensions for Web Development in VScode
 
 VScode offers a huge collection of extensions that enhance the web development experience. Here are some essential extensions to consider:
 
@@ -23,6 +24,9 @@ VScode enables seamless collaboration and remote development. Here are some feat
 2. **GitHub Codespaces**: GitHub offers a service called Codespaces, which provides a cloud-based development environment with VSCode pre-installed. With Codespaces, you can access a Linux machine from anywhere in the world, making it convenient for remote development.
 
 ## 1.1.4 How to use VSCode?
+
+It's actually quite simple to use VScode, here's a step-by-step tutorial about it!
+
 1. **Opening a Project**: Once you have installed VSCode, open it and you will see the welcome screen. From there, you can either open an existing project or create a new one. To open an existing project, click on "Open Folder" and select the folder containing your project files.
 2. **Editor Layout**: The VSCode interface consists of several components. The *editor groups* are the editor, where you write your code. On the left side, you have the *activity bar*, which provides access to different views like the file explorer, source control, extensions, and more. At the bottom, you have the *status bar*, which displays information about the current file, a handy terminal and it also provides quick access to various settings. 
 
@@ -42,9 +46,9 @@ Git works by branches. Textually from Git's docs:
 
 What does that mean? In Git there is a *main* branch, and then you can create more branches to independently write code/features for your project without messing up the *main* branch, the current *working* code. 
 Once you finish coding, you can pull the branch to *main*
-Thankfully, VScode offers excellent integration with Git, which means we won't have to ever use any Git commands while using VScode. Let's see how can we use it!
+Thankfully, VScode offers excellent integration with Git, which means we won't have to ever use any Git commands while using VScode. However, it's really important to learn them, since they can help us a lot in many scenarios. Let's see how can we use it!
 
-![An example of a Git repository with its *main*, *big feature* and *little feature* branches.](images/git-branches.png){width=50%}
+![An example of a Git repository with its *main*, *big feature* and *little feature* branches. As you can see, they all diverge from the main branch.](images/git-branches.png){width=50%}
 
 ## How to use git?
 Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands\footnote{Full list of commands available at https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html} are:
@@ -62,4 +66,18 @@ git config --global user.email <email>
     - `git commit -m "<Commit message>"` - Commit changes to the head branch of your git repo(repository)
     - `git push` - Send the changes and store them in the github repo
 
-The github code to authenticate and retriev, we explored the powered how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
+An example of me cloning my repository named "repository", changing one file, adding it to the commit, and pulling the commit to the repo.
+
+```bash
+git config --global user.name "poyo"
+git config --global user.email poyo@example.com
+git clone https://github.com/mrdapoyo/repository
+
+*Edits file data.txt*
+
+git add
+git commit -m "Poy Poyo! Cleaned the code"
+git push
+```
+
+The github code to authenticate and retrieve, we explored the powered how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
