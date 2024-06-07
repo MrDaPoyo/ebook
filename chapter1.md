@@ -33,9 +33,18 @@ VScode enables seamless collaboration and remote development. Here are some feat
 ## 1.2 Git 
 ### 1.2.1 What is Git?
 
-Git is a widely used version control system. It's useful for having and mantaining different versions of your code,and to store them in GitHub for free. Thankfully, VScode offers excellent integration with Git. Let's see how can we use it!
+![Git's logo](images/git.png){width=50%}
 
-![Git's logo](images/git.png)
+Git is a widely used version control system. It's useful for having and mantaining different versions of your code, and to store them in GitHub for free. 
+Git works by branches. Textually from Git's docs:
+
+> Branching means you diverge from the main line of development and continue to do work without messing with that main line.
+
+What does that mean? In Git there is a *main* branch, and then you can create more branches to independently write code/features for your project without messing up the *main* branch, the current *working* code. 
+Once you finish coding, you can pull the branch to *main*
+Thankfully, VScode offers excellent integration with Git, which means we won't have to ever use any Git commands while using VScode. Let's see how can we use it!
+
+![An example of a Git repository with its *main*, *big feature* and *little feature* branches.](images/git-branches.png){width=50%}
 
 ## How to use git?
 Git is a command line tool. That means it can be accessed and used via the terminal. The main Git commands\footnote{Full list of commands available at https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html} are:
