@@ -8,7 +8,7 @@ VScode is a popular code editor developed by Microsoft. It provides a wide range
 
 ## 1.1.2 Essential Extensions for Web Development in VScode
 
-VScode offers a huge collection of extensions that enhance the web development experience. Here are some essential extensions to consider:
+VScode offers a huge collection of extensions that enhance the web development experience. These can be installed from the *extensions* tab in the left sidebar. Here are some essential extensions to consider:
 
 1. **HTML CSS Support**: Provides autocompletion and syntax highlighting for HTML and CSS.
 2. **Live Server**: Launches a local development server and automatically refreshes the browser whenever you make changes to your HTML, CSS, or JavaScript files. I personally love this extension because it makes web development so easy, that I can finish websites in a matter of minutes.
@@ -80,4 +80,4 @@ git commit -m "Poy Poyo! Cleaned the code"
 git push
 ```
 
-The github code to authenticate and retrieve, we explored the powered how to get started with VScode, essential extensions for web development, debugging and testing capabilities, version control with Git, and collaboration features. In the next chapter, we will learn about the basics of building websites. See you there!
+In this chapter, we managed to get started with VScode, installed some essential extensions for web development, collaboration features and we learned about version control with Git. In the next chapter, we will learn about the basics of building websites. See you there!
