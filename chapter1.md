@@ -4,7 +4,7 @@ In this chapter, we will explore the powerful combination of Visual Studio Code 
 
 ## 1.1.1 Getting Started with VScode
 
-VScode is a popular code editor developed by Microsoft. It provides a wide range of features and extensions that make it a favorite among many web developers. To get started with VScode\footnote{Official video-guide: https://www.youtube.com/watch?v=B-s71n0dHUk}, it's as simple as visiting their official website\footnote{You can get VScode from https://code.visualstudio.com/.} and downloading VScode. Afterwards, make sure to run the installation wizard and you're now good to go!
+VScode is a popular code editor developed by Microsoft. It provides a wide range of features and extensions that make it a favorite among many web developers. To get started with VScode\footnote{Official video-guide: https://www.youtube.com/watch?v=B-s71n0dHUk}, it's as simple as visiting their official website\footnote{You can get VScode from https://code.visualstudio.com/.} and downloading VScode. Afterward, make sure to run the installation wizard and you're now good to go!
 
 ## 1.1.2 Essential Extensions for Web Development in VScode
 
@@ -14,18 +14,18 @@ VScode offers a huge collection of extensions that enhance the web development e
 2. **Live Server**: Launches a local development server and automatically refreshes the browser whenever you make changes to your HTML, CSS, or JavaScript files. I personally love this extension because it makes web development so easy, that I can finish websites in a matter of minutes.
 3. **Prettier**: Prettier automatically formats your code to ensure consistent styling and readability.
 4. **Rainbow Indent**: It helps a lot with indenting and if you indent correctly, it will display a rainbow! :) Cool, isn't it?
-5. **Live Share**: This extension allows you to share your local machine with your peers, so you can work collaboratively in a single dev environment! You can be editing one file while your peer edits another one. It's a must-have extension in my opinion.
+5. **Live Share**: This extension allows you to share your local machine with your peers, so you can work collaboratively in a single dev environment! You can edit one file while your peer edits another one. It's a must-have extension in my opinion.
 
 ## 1.1.3 Collaboration and Remote Development
 
 VScode enables seamless collaboration and remote development. Here are some features to consider:
 
-1. **Live Share**: With Live Share, you can share your development environment with others, allowing them to edit and debug code in real-time.
+1. **Live Share**: With Live Share, you can share your development environment with others, allowing them to edit and debug code in real time.
 2. **GitHub Codespaces**: GitHub offers a service called Codespaces, which provides a cloud-based development environment with VSCode pre-installed. With Codespaces, you can access a Linux machine from anywhere in the world, making it convenient for remote development.
 
 ## 1.1.4 How to use VSCode?
 
-It's actually quite simple to use VScode, here's a step-by-step tutorial about it!
+It's quite simple to use VScode, here's a step-by-step tutorial about it!
 
 1. **Opening a Project**: Once you have installed VSCode, open it and you will see the welcome screen. From there, you can either open an existing project or create a new one. To open an existing project, click on "Open Folder" and select the folder containing your project files.
 2. **Editor Layout**: The VSCode interface consists of several components. The *editor groups* are the editor, where you write your code. On the left side, you have the *activity bar*, which provides access to different views like the file explorer, source control, extensions, and more. At the bottom, you have the *status bar*, which displays information about the current file, a handy terminal and it also provides quick access to various settings. 
@@ -39,7 +39,7 @@ It's actually quite simple to use VScode, here's a step-by-step tutorial about i
 
 ![Git's logo](images/git.png){width=50%}
 
-Git is a widely used version control system. It's useful for having and mantaining different versions of your code, and to store them in GitHub for free. 
+Git is a widely used version control system. It's useful for having and maintaining different versions of your code, and to store them in GitHub for free. 
 Git works by branches. Textually from Git's docs:
 
 > Branching means you diverge from the main line of development and continue to do work without messing with that main line.
@@ -64,7 +64,7 @@ git config --global user.email <email>
 3. To save your work
     - `git add .` - Add all the files changed to the commit.
     - `git commit -m "<Commit message>"` - Commit changes to the head branch of your git repo(repository)
-    - `git push` - Send the changes and store them in the github repo
+    - `git push` - Send the changes and store them in the GitHub repo
 
 An example of me cloning my repository named "repository", changing one file, adding it to the commit, and pulling the commit to the repo.
 
