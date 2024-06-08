@@ -75,4 +75,5 @@ To compile this ebook, install `sudo apt-get install pandoc` and use `pandoc int
 ## Appendices:
 
 ### HTML, CSS and JS references
+### Cool snippets!
 ## Contact me
