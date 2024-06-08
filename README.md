@@ -1,5 +1,4 @@
-To compile this ebook, install `sudo apt-get install pandoc` and use `pandoc introduction.md tools.md -o output.pdf -H tex/disable_float.tex --template tex/eisvogel.tex 
---listings --metadata-file metadata.yaml`
+To compile this ebook, install `sudo apt-get install pandoc` and use ` pandoc introduction.md tools.md chapter1.md -o output.pdf -H tex/disable_float.tex --template tex/eisvogel.tex --listings --metadata-file metadata.yamll`
 
 # ![](images/still-poyo.png "Da poyo is here"){ width=25% } Poyo's guide to retro websites!
 
