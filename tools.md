@@ -1,4 +1,4 @@
-# Chapter 1: Tools and Setup
+# Tools and Setup
 
 In this chapter, we will explore the powerful combination of Visual Studio Code (VScode) and various web development tools such as Git that will be very useful! 
 
@@ -8,7 +8,7 @@ VScode is a popular code editor developed by Microsoft. It provides a wide range
 
 ## 1.1.2 Essential Extensions for Web Development in VScode
 
-VScode offers a huge collection of extensions that enhance the web development experience. These can be installed from the *extensions* tab in the left sidebar. Here are some essential extensions to consider:
+VScode offers a handy collection of extensions that enhance the web development experience. These add new features such as lintering, syntax highlighting and grammar correction. They can be installed from the *extensions* tab in the left sidebar. Here are some essential extensions to consider:
 
 1. **HTML CSS Support**: Provides autocompletion and syntax highlighting for HTML and CSS.
 2. **Live Server**: Launches a local development server and automatically refreshes the browser whenever you make changes to your HTML, CSS, or JavaScript files. I personally love this extension because it makes web development so easy, that I can finish websites in a matter of minutes.
