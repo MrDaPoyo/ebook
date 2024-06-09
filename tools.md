@@ -1,6 +1,8 @@
 # Tools and Setup
 
-In this chapter, we will explore the powerful combination of Visual Studio Code (VScode) and various web development tools such as Git that will be very useful! 
+Since we'll be editing files in this book, we'll need to use a code editor. You can use whatever code editor you want, but because VScode is the most popular editor out there, we'll be using. We'll also need to use a version control tool, Git, to manage many versions of our code.
+
+In this chapter, we will explore the powerful combination of Visual Studio Code (VScode) and various web development tools that will be very useful! 
 
 ## 1.1.1 Getting Started with VScode
 
@@ -18,10 +20,10 @@ VScode offers a handy collection of extensions that enhance the web development 
 
 ## 1.1.3 Collaboration and Remote Development
 
-VScode enables seamless collaboration and remote development. Here are some features to consider:
+You may also want to collaborate with your friends. That's why VScode enables seamless collaboration and remote development. Here are some things to consider:
 
-1. **Live Share**: With Live Share, you can share your development environment with others, allowing them to edit and debug code in real time.
-2. **GitHub Codespaces**: GitHub offers a service called Codespaces, which provides a cloud-based development environment with VSCode pre-installed. With Codespaces, you can access a Linux machine from anywhere in the world, making it convenient for remote development.
+1. **Live Share(extension)**: With Live Share, you can share your development environment with others, allowing them to edit and debug code in real time.
+2. **GitHub Codespaces(service)**: GitHub offers a service called Codespaces, which provides a cloud-based development environment with VSCode pre-installed. With Codespaces, you can access a Linux machine from anywhere in the world, making it convenient for remote development.
 
 ## 1.1.4 How to use VSCode?
 
