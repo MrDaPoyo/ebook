@@ -13,4 +13,7 @@ You can see there is a *connection* between the *web server* and the *client*. A
 
 A web browser is a piece of software that enables you to navigate through websites. It retrieves the HTML code from any Web Server and it displays the website on the client following a set of standards that all browsers share.
 
+Now that we know what a website is, let's dive further on how they work. 
+
 ## Skeleton of a web page
+

@@ -46,7 +46,7 @@ Git works by branches. Textually from Git's docs:
 
 > Branching means you diverge from the main line of development and continue to do work without messing with that main line.
 
-What does that mean? In Git there is a *main* branch, and then you can create more branches to independently write code/features for your project without messing up the *main* branch, the current *working* code. 
+What does that mean? In Git there is a *main* branch, and then you can create more branches to independently write code/features for your project without messing up the *main* branch, the current *working* code. And if you 
 Once you finish coding, you can pull the branch to *main*
 Thankfully, VScode offers excellent integration with Git, which means we won't have to ever use any Git commands while using VScode. However, it's really important to learn them, since they can help us a lot in many scenarios. Let's see how can we use it!
 
