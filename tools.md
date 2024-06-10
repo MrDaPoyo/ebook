@@ -10,7 +10,7 @@ VScode is a popular code editor developed by Microsoft. It provides a wide range
 
 ## 1.1.2 Essential Extensions for Web Development in VScode
 
-VScode offers a handy collection of extensions that enhance the web development experience. These add new features such as lintering, syntax highlighting and grammar correction. They can be installed from the *extensions* tab in the left sidebar. Here are some essential extensions to consider:
+VScode by itself is good, but it has most of the features developers want. That's why VScode offers a handy collection of extensions that enhance the web development experience. These add new features such as lintering, syntax highlighting and grammar correction. They can be installed from the *extensions* tab in the left sidebar. Here are some essential extensions to consider:
 
 1. **HTML CSS Support**: Provides autocompletion and syntax highlighting for HTML and CSS.
 2. **Live Server**: Launches a local development server and automatically refreshes the browser whenever you make changes to your HTML, CSS, or JavaScript files. I personally love this extension because it makes web development so easy, that I can finish websites in a matter of minutes.
@@ -20,7 +20,7 @@ VScode offers a handy collection of extensions that enhance the web development 
 
 ## 1.1.3 Collaboration and Remote Development
 
-You may also want to collaborate with your friends. That's why VScode enables seamless collaboration and remote development. Here are some things to consider:
+You may also want to collaborate with your friends on the making of your website. For that purpose, VScode enables seamless collaboration and remote development. Here are some things to consider:
 
 1. **Live Share(extension)**: With Live Share, you can share your development environment with others, allowing them to edit and debug code in real time.
 2. **GitHub Codespaces(service)**: GitHub offers a service called Codespaces, which provides a cloud-based development environment with VSCode pre-installed. With Codespaces, you can access a Linux machine from anywhere in the world, making it convenient for remote development.
