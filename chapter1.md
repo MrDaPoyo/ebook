@@ -18,4 +18,8 @@ Now that we know what a website is, let's dive further on how they work.
 
 ## Skeleton of a web page
 
-Websites
+Websites are made from HTML tags. The tags are composed by a "less than"(<) symbol, the name of the tag, it's attributes and a "greater than"(>) symbol.
+Some tags are 
+- The `<p>` tag, which displays a paragraph.
+- The `<a>` tag, which displays a link.
+- the `<h1>` tag, which displays a heading.
