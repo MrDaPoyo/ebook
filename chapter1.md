@@ -20,6 +20,7 @@ Now that we know what a website is, let's dive further into how they work.
 
 Websites are made from HTML tags. The tags are composed of a "less than"(<) symbol, the name of the tag, its attributes, and a "greater than"(>) symbol.
 Some tags are 
+- The `<html>` tag, which contains the body and the head of an HTML document.
 - The `<p>` tag, which displays a paragraph.
 - The `<a>` tag, which displays a link.
 - the `<h1>` tag, which displays a heading.
