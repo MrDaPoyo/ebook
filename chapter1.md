@@ -23,3 +23,5 @@ Some tags are
 - The `<p>` tag, which displays a paragraph.
 - The `<a>` tag, which displays a link.
 - the `<h1>` tag, which displays a heading.
+
+All of these tags are inside other tags, cand they can be displayed like a tree.
