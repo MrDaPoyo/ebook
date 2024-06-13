@@ -1,12 +1,15 @@
 # Chapter 1: The basics
 
 ## What is a website
-Nowadays we all know what a website is. You probably browse them daily, via Google Chrome or any other browser. Imagine them as small chunks of land with houses on it. The land is their domain name and the house is its content. Every house is made from a variety of rooms, the web pages. All together is sitting on a chunk of land, a web server. 
-What's even cooler is that websites can serve various purposes. From selling books to reading the news, every website is made for a certain purpose.
+
+Nowadays we all know what a website is. You probably browse them daily, via Google Chrome or any other browser.
 Quoting the Wikipedia;
 
 > A website (also written as a web site) is a collection of web pages and related content identified by a common domain name and published on at least one web server. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social media. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. 
 
+And if you pack all together every website in the world, you get the World Wide Web(A.K.A internet)!
+In case you don't know what the internet is, imagine the whole internet as a jar of cookies; The jar is the World Wide Web, the cookies are websites and each piece of chocolate is a web page.
+What's even cooler is that websites can serve various purposes. From selling books to broadcasting the radio, every website is can do anything you want! Amazing, isn't it?
 
 ![Simple example of a connection between the client and a web server.](images/web-browser.png)
 
@@ -25,4 +28,5 @@ Some tags are
 - The `<a>` tag, which displays a link.
 - the `<h1>` tag, which displays a heading.
 
-All of these tags are inside other tags, and they can be displayed like a tree.
+All of these tags are inside other tags, and they can be displayed like a Matrioska.
+![A tag inside a tag inside a tag inside a tag.. They all follow a hierarchy](images/matrioska.png)
