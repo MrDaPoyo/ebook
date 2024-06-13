@@ -11,6 +11,7 @@ And if you pack all together every website in the world, you get the World Wide 
 In case you don't know what the internet is, imagine the whole internet as a jar of cookies; The jar is the World Wide Web, the cookies are websites and each piece of chocolate is a web page.
 What's even cooler is that websites can serve various purposes. From selling books to broadcasting the radio, every website is can do anything you want! Amazing, isn't it?
 
+Now that we understand what is 
 ![Simple example of a connection between the client and a web server.](images/web-browser.png)
 
 You can see there is a *connection* between the *web server* and the *client*. A web server is a machine *serving*(Sending the files) files to the *client*. The *client* is the web browser the user uses to browse the web through via a terminal such as a PC or a phone.  
