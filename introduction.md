@@ -16,3 +16,4 @@ We'll also talk about how to create a button yourself, and how to join a webring
 Without further ado, let's get started!
 
 ![This is how google looked in 1998. Image taken from https://www.webdesignmuseum.org/exhibitions/web-design-in-the-90s](images/google-1998.png){ width=100% }
+\newpage
