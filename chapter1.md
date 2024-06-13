@@ -32,4 +32,6 @@ Some tags are
 - the `<h1>` tag, which displays a heading.
 
 All of these tags are inside other tags, and they can be displayed like a Matrioska.
-![A tag inside a tag inside a tag inside a tag.. They all follow a hierarchy](images/matrioska.png)
+
+![A tag inside a tag inside a tag inside a tag. They follow a hierarchy, from bigger to smaller.](images/matrioska.png)
+
