@@ -83,3 +83,4 @@ git push
 ```
 
 In this chapter, we managed to get started with VScode, installed some essential extensions for web development, collaboration features and we learned about version control with Git. In the next chapter, we will learn about the basics of building websites. See you there!
+\newpage
