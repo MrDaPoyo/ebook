@@ -33,7 +33,7 @@ Some tags are
 - The `<a>` tag, which displays a link.
 
 
-All of these tags are inside other tags, and they can be displayed like a Matrioska.
+All of these tags are inside other tags, and they can be displayed like a Matrioska. There is a hierarchy they all follow. Every website follows this hierarchy. And in case it's broken, web browsers might be unable to render it properly.
 
 ![A tag inside a tag inside a tag inside a tag. They follow a hierarchy, from bigger to smaller.](images/matrioska.png)
 
