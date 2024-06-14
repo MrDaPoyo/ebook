@@ -10,7 +10,7 @@ If you're reading this book, I assume you're a nostalgic fellow who also wants t
 
 In this book, I will teach you how to build your own website from scratch, what the trends were in the 1990s-2000s, and how we can replicate the looks of such websites.
 
-There were many trends back in the 90s, such as having your visitors sign a guestbook, visitor counters, and blinkies/buttons(More on that later), and believe it or not, <span style="color: green; font-family: 'Comic Sans', cursive; font-size: 1.5em;">Comic Sans</span> was all the rage worldwide.
+Back to the trends, There were many of them back in the 90s, such as having your visitors sign a guestbook, visitor counters, and blinkies/buttons(More on that later), and believe it or not, <span style="color: green; font-family: 'Comic Sans', cursive; font-size: 1.5em;">Comic Sans</span> was all the rage worldwide.
 Yep O-O, Comic Sans. What the fu-
 We'll also talk about how to create a button yourself, and how to join a webring. 
 Without further ado, let's get started!
