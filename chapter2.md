@@ -21,16 +21,17 @@ You can see there is a connection between the *web server* and the *client*. A w
 
 But you may be asking yourself, what's a web browser? A web browser is a piece of software that enables you to navigate through websites. It retrieves the HTML code from any Web Server and it displays the website on the client following a set of standards that all browsers share.
 
-Now that we know what websites, web browsers and the internet are, let's dive further into how they work.
+Now that we know what the internet, websites, and web browsers are, let's dive further into how they work.
 
 ## 2.2 Skeleton of a web page
 
 Websites are made from HTML tags. The tags are composed of a "less than"(<) symbol, the name of the tag, its attributes, and a "greater than"(>) symbol.
 Some tags are 
 - The `<html>` tag, which contains the body and the head of an HTML document.
+- the `<h1>` tag, which displays a heading.
 - The `<p>` tag, which displays a paragraph.
 - The `<a>` tag, which displays a link.
-- the `<h1>` tag, which displays a heading.
+
 
 All of these tags are inside other tags, and they can be displayed like a Matrioska.
 
