@@ -25,7 +25,8 @@ Now that we know what the internet, websites, and web browsers are, let's dive f
 
 ## 2.2 Skeleton of a web page
 
-Websites are made from HTML tags. The tags are composed of a "less than"(<) symbol, the name of the tag, its attributes, and a "greater than"(>) symbol.
+Websites are made from HTML tags. Most of these tags are composed of two sub-tags. Both tags contain a "less than"(<) symbol, the name of the tag, its attributes, and a "greater than"(>) symbol. The last tag also contains a slash(/) after the "less than" symbol. An html tag with its opening and closing tags would look like `<p></p>`. However, as I also said, there are tags that don't need a closing tag, such as the `<img>`, `<br>` and `<hr>` tags.
+
 Some tags are 
 - The `<html>` tag, which contains the body and the head of an HTML document.
 - the `<h1>` tag, which displays a heading.
@@ -33,8 +34,23 @@ Some tags are
 - The `<a>` tag, which displays a link.
 
 
-All of these tags are inside other tags, and they can be displayed like a Matrioska. There is a hierarchy they all follow. Every website follows this hierarchy. And in case it's broken, web browsers might be unable to render it properly.
+All of these tags are inside other tags, and they can be represented as a Matrioska doll. There is a hierarchy they all follow. Every website follows this hierarchy. And in case it's broken, web browsers might be unable to render it properly.
 
 ![A tag inside a tag inside a tag inside a tag. They follow a hierarchy, from bigger to smaller.](images/matrioska.png)
+
+We can see there is a tag, inside tags. Let's see an HTML code snippet to further understand what HTML is;
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello world!</title>
+</head>
+
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
 
 \newpage
